@@ -4,3 +4,4 @@ sentence-transformers
 chromadb
 pypdf
 openai
+torchvision
